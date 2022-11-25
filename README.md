@@ -11,3 +11,9 @@
 <li>Add seconds to pause after each keyword search. If you try to scrap very fast, then Google will show a captcha.</li>
 <li>Click on button <b>Start Scraping</b>.</li>
 </ol>
+
+<h3>Example of how business listing is displayed on Google:</h3>
+<img src="https://github.com/vilash99/google-business-listing-scraper/blob/main/google-business-listing-example.jpg" alt="google-search-result">
+
+<h3>Excel Interface:</h3>
+<img src="https://github.com/vilash99/google-business-listing-scraper/blob/main/excel-file-screenshot.jpg" alt="excel-dashboard">
