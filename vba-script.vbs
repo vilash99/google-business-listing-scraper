@@ -109,6 +109,7 @@ Sub GoogleAutomatedSearch()
     Application.StatusBar = ""
     Sheets("Google").Activate
     
+    driver.Quit
     Set driver = Nothing
     
     MsgBox "All keywords are searched and scrapped successfully!", vbInformation, "Google Listing Scraper"
