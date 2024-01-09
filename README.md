@@ -12,8 +12,8 @@
 <li>Click on button <b>Start Scraping</b>.</li>
 </ol>
 
-<h3>Example of how business listing is displayed on Google:</h3>
-<img src="https://github.com/vilash99/google-business-listing-scraper/blob/main/google-business-listing-example.jpg" alt="google-search-result">
+<h3>Example of how the business listing is displayed on Google:</h3>
+<img src="google-business-listing-example.jpg" alt="google-search-result">
 
 <h3>Excel Interface:</h3>
-<img src="https://github.com/vilash99/google-business-listing-scraper/blob/main/excel-file-screenshot.jpg" alt="excel-dashboard">
+<img src="excel-file-screenshot.jpg" alt="excel-dashboard">
