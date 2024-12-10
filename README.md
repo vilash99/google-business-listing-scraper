@@ -4,7 +4,7 @@
 
 <h3>How to Use this script</h3>
 <ol>
-<li>Install Selenium on your System. You can check step-by-step instructions on How to <a href="https://www.kushalstudy.com/blog/how-to-install-selenium-webdriver-for-vba-in-windows/">How to Install Selenium Webdriver for VBA in Windows</a> blog.</li>
+<li>Install Selenium on your System. You can check step-by-step instructions on How to <a href="https://www.vpktechnologies.com/blog/how-to-install-selenium-webdriver-for-vba-in-windows/">How to Install Selenium Webdriver for VBA in Windows</a> blog.</li>
 <li>Open <em>scrap-business-listing-google.xlsm</em> file and put business names in column A, starting from row 3.</li>
 <li>Add the row number at cell H4 where you want to START scraping.</li>
 <li>Add the row number at cell H6 where you want to END scraping.</li>
